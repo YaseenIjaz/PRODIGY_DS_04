@@ -2,15 +2,15 @@
 ## Project Description
 This project aims to perform sentiment analysis on Twitter data using a dataset of tweets. The analysis involves data cleaning, sentiment distribution visualization, and brand-specific sentiment analysis, particularly focusing on tweets related to Microsoft.
 
-1.Table of Contents
-2.Installation
-3.Usage
-4.Project Structure
-5.Data Description
-6.Analysis Steps
-7.Visualization
-8.Contributing
-9.License
+1. Table of Contents
+2. Installation
+3. Usage
+4. Project Structure
+5. Data Description
+6. Analysis Steps
+7. Visualization
+8. Contributing
+9. License
 
 ## Data Description
 The dataset twitter_training.csv contains tweets with the following columns:
